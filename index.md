@@ -6,6 +6,6 @@ lək̓ʷəŋən and W̱SÁNEĆ Territories
 TWF, 1:30-2:20pm  
 Taught by Jentery Sayers (he / him)   
 Office hours: Thursday, 12:30 - 2:30pm     
-With  Babak Ashrafkhani, teaching assistant
+With Babak Ashrafkhani, teaching assistant
 
 *Syllabus coming soon.* 
