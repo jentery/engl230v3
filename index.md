@@ -27,7 +27,9 @@ Contents:
 
 # tl;dr Version of this Syllabus
 
-Coming soon. 
+In a rush? Overwhelmed by the start of term? Need a guide to steward you through this course?
+
+I made a one-page, [tl;dr version of this syllabus](guide.html) for you. I'll print you a [PDF copy](guide.pdf), too. This guide is not intended to replace the syllabus, but I hope it's convenient in a pinch. 
 
 # Course Description 
 
@@ -42,13 +44,15 @@ We designed this course for you to:
 * Develop a vocabulary to approach media in the context of fiction and storytelling.  
 * Interpret what audio, images, text, and interfaces *do* in fiction. We'll practice various techniques for watching, reading, playing, and listening to the stories people make with media. 
 * Communicate critically with audio, images, text, and interfaces. You'll have opportunities to practice composing across these media, with an informed audience in mind. 
-* Use media as evidence in criticism. You will integrate audio, images, and even video alongside quotations into your writing about fiction.
+* Use media as evidence in criticism. You will have the opportunity to integrate audio, images, quotations, and even video into your writing about fiction.
 
 Each of these four outcomes should apply to work across disciplines and occupations, regardless of your major at UVic. They are useful whenever you're analyzing media or writing for the web.
 
 # About Us 
 
 My name is Jentery Sayers (he / him). I skip a syllable and say it in two: “JEN-tree.” I spend 14.32% of the day looking for my glasses, and I enjoy writing about audio, games, and experimental fiction. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I've been at UVic, on lək̓ʷəŋən and <u>W</u>SÁNEĆ territories, since 2011. I teach courses for UVic English, and I direct the Praxis Studio for Comparative Media Studies. You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca). 
+
+(More about Babak coming soon.)
 
 # Assignments
 
@@ -156,7 +160,7 @@ This week should consume no more than four hours of your time outside of class.
 *Friday, September 23rd* 
 
 * Expect a lecture and large group discussion about "Message in a Bottle," with attention to material (including visceral language), trust (including deferred messages, unknown addressees, and purloined letters), speculation (including conjecture, time travel, and worldbuilding), repatriation, and roles played by the messenger (including curator, guide, conduit, carrier, and trickster).
-* Also expect a review of [Prompt 1](prompt1.html), a response to which is due Tuesday. 
+* Also expect a review of [Prompt 1](prompt1.html), a response to which is due Tuesday, as well as the "no questions asked," one-week late policy for all submissions in this course.  
 
 Please note that Tuesday, September 20th is the last day for 100% reduction of tuition fees for standard first term and full year courses, and Friday, September 23rd is the last day for adding courses that begin in the first term.
 
@@ -255,7 +259,7 @@ This week should consume no more than five hours of your time outside of class.
 * Review [Prompt 3](prompt3.html). A response is due in Brightspace by Friday, November 4th. 
 * Expect a review of concepts and techniques for approaching images in fiction. 
 
-Please note that Monday, October 31st is the last day for withdrawing from first term courses without penalty of failure.
+Please note that Monday, October 31st is the last day to withdraw from first term courses without penalty of failure.
 
 ## Week 9 (Nov. 1, 2 + 4): Meaning and Motivation 
 
@@ -314,7 +318,7 @@ This week should consume no more than four hours of your time outside of class.
 *Wednesday, November 23rd* 
 
 * Review [Prompt 4](prompt4.html). A response is due in Brightspace by Tuesday, December 13th. 
-* Expect a lecture and large group discussion of *Celeste*, with an introduction to interface terminology  ways of interpreting interfaces (diegetic and non-diegetic).
+* Expect a lecture and large group discussion of *Celeste*, with attention to mediation (including the relationship between interface, engine, and story), difficulty (including mechanics, character experiences, and "assist mode"), the articulation of visual art with music, and, of course, the mountain. 
 
 *Friday, November 25th* 
 
@@ -349,3 +353,95 @@ This final assignment should consume no more than five hours of your time.
 * Submit your response to [Prompt 4](prompt4.html) via Brightspace. 
 
 We wish you a warm, relaxing, and rejuvenating winter break.  
+
+# Policies 
+
+Here are the policies for this course. If anything is unclear, ignorant, or mistaken, then please let us know. We'll correct it. 
+
+### Prerequisites 
+
+There are no prerequisites for this 200-level English course. 
+  
+### Assessment and Feedback
+
+Responses to two prompts are required to pass this course. Failure to complete these two assignments will result in a failing N grade (calculated as a 0 for your GPA). 
+
+We will use UVic's [official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to produce rubrics to assess your work. We will not post marks publicly or outside our offices, and we do not use plagiarism detection software.
+
+All assignments should be submitted via Brightspace. We will also use Brightspace to provide written feedback on each of your responses, regardless of when you submit them. If you ever want additional feedback, then feel free to ask us. We can provide it in person or via email. 
+
+Throughout the term, we'll request feedback (verbal and in writing) from you on how the course is going. We'll also ask you to complete Course Experience Surveys at the end of the term (during our last meeting).
+
+### Late Submissions and Extensions
+
+We have a "no questions asked" late policy for any assignments (excluding your response to Prompt 4, due in December) submitted within one week (five working days) of its due date. We simply ask that you complete an online form, which we'll circulate during class in September, to apply that policy. Your response to the online form will help us to track work that's arriving a few days late. It'll also save you an email. Of course, we recommend submitting everything on time, but we know that life happens, and for late work we will never expect any sort of documentation from you. 
+
+We will deduct two points per working day for every assignment submitted more than one week (five working days) late. Please email me (Jentery) if you need more than a week's extension. Again, we will comment on all assigned work we receive from you during the term, regardless of when it's submitted.   
+
+### Attendance, Participation, and Recordings
+
+We will assume you are attending each one of meetings this term. If you are unable to attend a particular meeting, then please email one of us in advance. You do not need to provide us with documentation for an absence. There are no participation marks or the like in this course. 
+
+With your permission, we may record audio of our sessions and circulate it via Brightspace. You will have the option to limit personal information shared in the recording. If you have other questions or concerns regarding class recording and privacy, then please contact [privacyinfo@uvic.ca](mailto:privacyinfo@uvic.ca).  
+
+### Communications 
+
+The best way to communicate with me (Jentery) is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) or during office hours, which are Thursday, 12:30 - 2:30pm. I respond to email between 9am and 5pm, Monday through Friday, excluding holidays. 
+
+### Learning Climate  
+
+The University of Victoria is committed to promoting, providing, and protecting a positive, supportive, and safe working and learning environment for all its members. We are expected to adhere to [UVic's equity and human rights policies](https://www.uvic.ca/equity/) and the [Trifaculty Code of Professional Behaviour](https://www.uvic.ca/services/advising/assets/docs/tri-fac-student-code-of-conduct.pdf). You should alert us immediately if you have any questions about these policies and their application, or if you have concerns about course proceedings or participants.
+
+### Academic Integrity  
+
+We are expected to adhere to [UVic's academic integrity policy](https://www.uvic.ca/current-students/home/academics/academic-integrity/index.php) and be aware of the policies for the evaluation of student work. Violations of the integrity policy will result in a failing grade for the given assignment and may additionally result in a failing grade for the course. By taking this course, you agree that all submitted assignments may be subject to an originality review. We do not use software to detect plagiarism in essays or any other assignments.
+
+### Copyright 
+
+All course materials, including notes, audio recordings, and this course outline, are made available for educational purposes and for the exclusive use of students in this course. The material is protected under copyright law, even if not marked as such. The syllabus itself is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Any further use or distribution of materials to others requires written permission, except under fair dealing or another exception in the Copyright Act. Violations may result in disciplinary action under the Resolution of Non-Academic Misconduct Allegations policy (AC1300). 
+
+### Online Conduct 
+
+The University of Victoria is committed to promoting critical academic discourse while providing a respectful and supportive learning environment. All members of the university community have the right to this experience and the responsibility to help create such an environment. The University will not tolerate racism, sexualized violence, or any form of discrimination, bullying, or harassment. 
+
+Please be advised that, by logging into UVic's learning systems and interacting with online resources, you are engaging in a university activity. All interactions within this environment are subject to the university's expectations and policies. Any concerns about student conduct may be reviewed and responded to in accordance with the appropriate university policy. To report concerns about online student conduct, email [onlineconduct@uvic.ca](mailto:onlineconduct@uvic.ca).
+
+### Accessibility
+
+If you have a disability or health consideration that may require supports, please feel free to approach us and/or the [Centre for Accessible Learning (CAL)](https://www.uvic.ca/services/cal/) as soon as possible. CAL staff are available by appointment to assess specific needs, provide referrals, and arrange appropriate supports. We will never ask you to disclose a diagnosis to us, and we know that access needs are social, cultural, and structural issues that aren't always addressed, or adequately addressed, by institutions such as the academy. 
+
+Auto-generated transcription and captioning may be enabled in this course. Please be aware that automated transcription and captioning is at best 70-90% accurate and by nature will include errors. This depends on the subject matter, speaker, audio quality, and the like. Words prone to error include specialized terminology and proper names. We ask that you refer to the audio feed for clarification of any errors. If you find transcription or captioning that is offensive, please contact us. If you require captions as part of academic supports, please contact us and/or CAL.
+
+### Diversity, Equity, and Inclusion 
+
+We aim to create an inclusive learning environment that attends to difference and honours each of you, including your experiences as well as the intersections of race, gender, disability, sexuality, religion, power, and class. We want to be a resource for you, and we are also still learning. If something is said in class (by anyone, including us) that makes you feel uncomfortable, then don't hesitate to talk with us. If you have a name and/or set of pronouns that differ from those that appear in your university records, then let us know and we'll correct the documents provided to us. If your performance in the class is being impeded by your experiences outside of class, then just keep us posted and we'll make adjustments. We also welcome any suggestions to improve the quality of the course and/or its culture and materials, and we will make available mechanisms for anonymous feedback since you may prefer them. If you'd rather speak with someone outside the course, then Luke Carson (chair) and Erin Ellerbeck (undergraduate adviser) in English are excellent resources.  
+
+The following student groups may be relevant to your life as a student here at UVic: 
+
+* [The Native Students Union](https://www.uvicnsu.ca/home) "is a community group for Indigenous students at UVic. Our space in the SUB is open to self-identifying Indigenous students who want to work, study, lounge, have lunch, or connect with other students. We're also located in the First Peoples House. Our weekly meetings are an opportunity for students to connect, plan events, share resources, or work on any student-led initiatives on student wellness, culture, Indigenous resurgence, and decolonization." 
+* [The Students of Colour Collective](https://soccollective.com/) "is a group of self-identified Black, Indigenous and/or Persons of colour operating as an advocacy group out of the University of Victoria, located on Lekwungen Homelands. We are committed to cultural awareness, mental health, anti-racism, and social justice. SOCC welcomes and encourages all students who self identify as Black, Indigenous and/or Persons of colour at UVic to become active members."
+* [The Society for Students with a Disability (SSD)](https://uvicssd.ca/) "is a student advocacy group that promotes the full participation and inclusion of students identified with disabilities at the University of Victoria. The SSD provides a welcoming, safe, and supportive environment for all students identified with disabilities. The SSD advocates for individual accommodation and systemic changes to the University that will make post-secondary education more accessible and socially just."
+* [The Gender Empowerment Centre (GEM)](https://genderempowermentcentre.ca/) "is a collectively run, drop-in space on campus that provides resources through an intersectional feminist framework. GEM offers free access to a large variety of safer sex supplies, menstrual supplies (including FREE menstrual cups) pregnancy tests and emergency contraceptives. They provide health resources, peer support, as well as a lounge space to hang out, study, and meet others."
+* [UVic Pride](https://www.prideuvic.com/) "is an organization for all people who are queer, queer-positive, gender-variant and/or intersex. We strive to meet the needs of people who self-identify as queer (including but not limited to people who identify as Two Spirit, bisexual, lesbian, gay, asexual, demisexual, aromantic, and pansexual, as well as people who do not identify with these labels); trans people; those who are questioning their sexuality or gender; those who are struggling with concerns related to intersexuality; and supportive partners, friends, family members, and allies."
+
+*Language for this policy was drawn from the Harriet W. Sheridan Center for Teaching and Learning at Brown University, and from the work of Monica Linden, in particular.*
+
+### Basic Needs 
+
+We want you to thrive in this course and everywhere else. Please let us know as early as possible if you have any concerns or if you require any supports to succeed. We'll do our best to help. If, for instance, you need to cover gaps in care, then please don't hesitate to bring your children to class meetings. Babies who are nursing are always welcome, as we do not want you to choose between feeding your child and continuing your education. 
+
+UVic takes student mental health very seriously, with a [website](https://www.uvic.ca/mentalhealth/) full of resources. They offer services such as assistance and referral to address students' personal, social, career, and study skills concerns. Services for students also include crisis and emergency mental health consultation and confidential assessment, counselling services (individual and small group), and referrals. Many of these programs are connected with Health Services, which you may contact by phone. 
+
+The [Student Services website](https://www.uvic.ca/studentaffairs/departments/student-services/index.php) lists several policies that you might want to know about and may make your life at UVic safer and easier. Only some of them are directly related to this course, but they're still important.
+
+*Language for this policy was drawn from the work of Richard Pickard at UVic.*
+
+# Territory Acknowledgement 
+
+As researchers and instructors at the University of Victoria, we acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the University stands, and the Songhees, Esquimalt, and <u>W</u>SÁNEĆ peoples whose historical relationships with the land continue to this day.
+
+***
+
+Many thanks to Madyson Huck, Yu-Hsuan Liou, Faith Ryan, and Ian Waddell, who taught previous iterations of this course with me (Jentery). Thanks as well to Julie Funk and Stefan Higgins for providing feedback on the course materials, and to Faith for collaborating with me to develop early drafts of the lectures and workshops.
+
+*This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
