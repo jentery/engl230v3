@@ -127,14 +127,53 @@ This week should consume no more than three hours of your time outside of class.
 *Tuesday, September 13th*
 
 * Watch and take notes on Young-Hae Chang Heavy Industries' [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html). Ensure the audio is enabled. CW: flashing images of text; unwanted advance by a male-coded character
-* Expect a lecture and large group discussion about *THE M00D 0F THE M0MENT*, with attention to mood and modality. 
+* Expect a lecture and large group discussion about *THE M00D 0F THE M0MENT*, with attention to mood,  modality, miscommunication (including ambiguity), and audiovisual synchronization (or "Mickey Mousing").  
 
 *Wednesday, September 14th* (no class)
  
 * Review [Prompt 1](prompt1.html). A response is due in Brightspace by Tuesday, September 27th. 
-* We will not meet today (no class). 
+* We will not meet today (there's no class). 
 
 *Friday, September 16th* 
 
-* Play and take notes on Marina Kittaka's [*Secrets Agent*](https://even-kei.itch.io/secrets-agent). Ensure the audio is enabled. CW: discussion of body image and voice perception. Check out [*Sephonie*](https://store.steampowered.com/app/1248840/Sephonie/), too, if you'd like. 
-* Expect a lecture and large group discussion about *Secrets Agent*, with attention to mood and modality. 
+* Play and take notes on Marina Kittaka's [*Secrets Agent*](https://even-kei.itch.io/secrets-agent). Ensure the audio is enabled and try to play the game to completion. CW: discussion of body image and voice perception. Check out [*Sephonie*](https://store.steampowered.com/app/1248840/Sephonie/), too, if you'd like. 
+* Expect a lecture and large group discussion about *Secrets Agent*, with attention to mood, modality, spoilers, vulnerability (including intimacy), and parallel play (including vibes and playtesting).  
+
+## Week 3 (Sept. 20, 21 + 23): Message and Material 
+
+This week should consume no more than four hours of your time outside of class. 
+
+*Tuesday, September 20th* 
+
+* Watch and take notes on Amanda Strong and Leanne Betasamosake Simpson's [*Biidaaban (The Dawn Comes)*](https://www.youtube.com/watch?v=vWjnYKyiUB8). Ensure the audio is enabled. CW: settler colonialism and violence; surveillance; some horror motifs (especially the music)
+* Expect a lecture and large group discussion about *Biidaaban*, with attention to message, material, characterization (including environments and "silent" protagonists), infrastructure, and remediation (including hypermediacy, immediacy, and apprehension). 
+
+*Wednesday, September 21st* 
+
+* Read and take notes on Nalo Hopkinson's "Message in a Bottle" (available in Brightspace).
+* Expect a workshop on key concepts we've discussed thus far.
+
+*Friday, September 23rd* 
+
+* Expect a lecture and large group discussion about "Message in a Bottle," with attention to material, trust (including deferral, purloined letters, and repatriation), speculation (including conjecture and worldbuilding), and roles played by the messenger.
+* Also expect a review of [Prompt 1](prompt1.html), a response to which is due Tuesday. 
+
+Please note that Tuesday, September 20th is the last day for 100% reduction of tuition fees for standard first term and full year courses, and Friday, September 23rd is the last day for adding courses that begin in the first term.
+
+## Week 4 (Sept. 27, 28 + 30): Making and Modularity 
+
+This week should consume no more than five hours of your time outside of class.
+
+*Tuesday, September 27th*
+
+* Submit your response to [Prompt 1](prompt1.html) via Brightspace. 
+* Expect a lecture on the parts or components of contemporary media and fiction, including the notion of modularity.  
+
+*Wednesday, September 28th* 
+
+* Spend an hour learning more about a game or interactive fiction mentioned during Tuesday's lecture.  
+* Expect a workshop on the concepts of making and modularity in media. 
+
+*Friday, September 30th* (no class)
+
+* Today is National Day for Truth and Reconciliation (there's no class). 
