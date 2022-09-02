@@ -82,8 +82,8 @@ In Brightspace, we will also message you once each week with an update on how th
 
 Here's a list of works ("assigned texts") we'll study this term. You need to purchase only the first one (Bechdel's [*Fun Home*](https://www.uvicbookstore.ca/text/book/9780618871711?course_id=122032), which is $25 new and $19 used). The rest are available either online (public) or in Brightspace (private to the class). If you'd like to purchase some of the games, then feel free, especially if you decide to write about them.  
 
-* The graphic novel and memoir, [*Fun Home*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/) (2006), by Alison Bechdel (*please purchase*)
-* The comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/killing-and-dying) (2015; excerpts), by Adrian Tomine    
+* The graphic novel and memoir, [*Fun Home*](https://www.hmhco.com/shop/books/Fun-Home/9780547347004) (2006), by Alison Bechdel (*please purchase*)
+* The comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/books/killing-and-dying/) (2015; excerpts), by Adrian Tomine    
 * The short fiction, ["Message in a Bottle"](https://tachyonpublications.com/product/falling-love-hominids/) (2004), by Nalo Hopkinson 
 * The interactive fiction, [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive) (2014), by Porpentine Charity Heartscape and Brenda Neotenomie
 * The text-based animation, [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) (2007), by Young-Hae Chang Heavy Industries
@@ -103,7 +103,7 @@ You do not need to purchase any software for this course; however, you'll need a
 
 # Schedule
 
-Here's the schedule for the term. It's subject to change, but we will use a Brightspace announcement to notify you at least two weeks in advance of any changes. In Brightspace, we will also update you each week on how the course is progressing. 
+Here's the schedule for the term. It's subject to change. We will use a Brightspace announcement to notify you at least two weeks in advance of any changes, and we will never use schedule changes to increase your workload. In Brightspace, we will also update you each week as to how the course is progressing. 
 
 ## Week 1 (Sept. 7 + 9): Hello! 
 
@@ -119,3 +119,22 @@ This week should consume no more than two hours of your time outside of class.
 * Take a moment to scan the course outline and review the course policies. 
 * Email us any questions or concerns you have about the course and its syllabus. 
 * Expect a lecture introducing you to some important "media and fiction" themes in the course. 
+
+## Week 2 (Sept. 13, 14 + 16): Mood and Modality
+
+This week should consume no more than three hours of your time outside of class. 
+
+*Tuesday, September 13th*
+
+* Watch and take notes on Young-Hae Chang Heavy Industries' [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html). Ensure the audio is enabled. CW: flashing images of text; unwanted advance by a male-coded character
+* Expect a lecture and large group discussion about *THE M00D 0F THE M0MENT*, with attention to mood and modality. 
+
+*Wednesday, September 14th* (no class)
+ 
+* Review [Prompt 1](prompt1.html). A response is due in Brightspace by Tuesday, September 27th. 
+* We will not meet today (no class). 
+
+*Friday, September 16th* 
+
+* Play and take notes on Marina Kittaka's [*Secrets Agent*](https://even-kei.itch.io/secrets-agent). Ensure the audio is enabled. CW: discussion of body image and voice perception. Check out [*Sephonie*](https://store.steampowered.com/app/1248840/Sephonie/), too, if you'd like. 
+* Expect a lecture and large group discussion about *Secrets Agent*, with attention to mood and modality. 
