@@ -1,4 +1,4 @@
-**English 230: An undergraduate course for 60 students** 
+**English 230: An undergraduate course for 60 students**    
 Fall 2022 at the University of Victoria  
 lək̓ʷəŋən and <u>W</u>SÁNEĆ Territories  
 TWF, 1:30-2:20pm  
