@@ -100,3 +100,22 @@ If this ends up being too much for the term, then we'll cut material or some of 
 We'll also provide you with notes and audio that will document material from lectures and discussions. The notes will be circulated as a Word doc in Microsoft Office 365, and we will invite you to comment, converse, and ask questions in the margins. The audio will be available in Brightspace. Again, we ask that you do not circulate the recordings or notes beyond the course. Thanks a bunch. 
 
 You do not need to purchase any software for this course; however, you'll need access to the internet and a computer. We will use Brightspace and Word for Office 365, both provided by UVic. If you've never used Microsoft Office 365 at UVic, then you may need to activate it first by visiting [onlineservices.uvic.ca](https://onlineservices.uvic.ca/).  
+
+# Schedule
+
+Here's the schedule for the term. It's subject to change, but we will use a Brightspace announcement to notify you at least two weeks in advance of any changes. In Brightspace, we will also update you each week on how the course is progressing. 
+
+## Week 1 (Sept. 7 + 9): Hello! 
+
+This week should consume no more than two hours of your time outside of class. 
+
+*Wednesday, September 7th*
+
+* There's no need to prep for our first meeting. We'll introduce ourselves and talk about the course. 
+* Consider purchasing a copy of [*Fun Home*](https://www.uvicbookstore.ca/text/book/9780618871711?course_id=10001), if you've not already. 
+
+*Friday, September 9th* 
+
+* Take a moment to scan the course outline and review the course policies. 
+* Email us any questions or concerns you have about the course and its syllabus. 
+* Expect a lecture introducing you to some important "media and fiction" themes in the course. 
