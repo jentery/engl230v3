@@ -49,3 +49,23 @@ Each of these four outcomes should apply to work across disciplines and occupati
 # About Us 
 
 My name is Jentery Sayers (he / him). I skip a syllable and say it in two: “JEN-tree.” I spend 14.32% of the day looking for my glasses, and I enjoy writing about audio, games, and experimental fiction. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I've been at UVic, on lək̓ʷəŋən and <u>W</u>SÁNEĆ territories, since 2011. I teach courses for UVic English, and I direct the Praxis Studio for Comparative Media Studies. You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca). 
+
+# Assignments
+
+We're back to campus during COVID-19. These are complex and overwhelming times, so we'll try to keep this course as simple and clear as possible. 
+
+We're asking you to complete only **four assignments** this term, each 25% of your final mark. You'll have an opportunity to **revise one** of your first three assignments to improve your grade. (Your mark can only improve with revision.)
+
+For each assignment, you will respond briefly to a prompt (available in Brightspace) through a combination of audio, images, video, and/or text. The prompt will ask you to examine assigned materials, with attention to detail, from a critical perspective. It will also nudge you to enact a media study of fiction: to demonstrate concepts and perform techniques discussed during class. 
+
+Each response will be assessed based on a rubric provided in the prompt itself, and you will submit all four responses via Brightspace. (Please do not submit them via email or in print.)  
+
+This all means there are no research papers, presentations, or discussion forums in this course. There are no exams, either. 
+
+As for scheduling, you will know 50% of your final mark by Tuesday, October 25th and 75% by Tuesday, November 15th. Optional revisions to one response will be due by Friday, December 2nd, and your final response to a prompt will be due by Tuesday, December 13th (during the exam period).
+
+# Structure
+
+We'll meet three days a week (TWF) from 1:30 to 2:20pm. A typical week will include a lecture, a large group discussion about a particular work, and a workshop on critical media literacy. We will use Word in Microsoft Offic 265 to provide you with detailed lecture notes alongside audio recordings (in Brightspace) of class meetings. These notes and recordings are to be used solely for the sake of the course (and making it more accessible) and should *not* be circulated outside of it. Feedback on this approach is welcome from you along the way. 
+
+For details about what we will discuss and when, see the schedule below.
