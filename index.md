@@ -344,7 +344,7 @@ This week should consume no more than four hours of your time outside of class.
 * Expect a course wrap-up and some time to complete the experience surveys.  
 * We will return marks for revised responses by Wednesday, December 8th. 
 
-## Exam Period 
+## Exam Period: Roll Credits
 
 This final assignment should consume no more than five hours of your time. 
 
