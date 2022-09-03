@@ -33,9 +33,9 @@ I made a one-page, [tl;dr version of this syllabus](guide.html) for you. I'll pr
 
 # Course Description 
 
-How do we not only *read* stories but also *see*, *hear*, *watch*, and *play* them? This course introduces you to the intersections of media and literature and, more specifically, how text, audio, image, and interfaces are designed for contemporary fiction. We'll engage numerous formats, from short fiction and comics to animations, dramatic podcasts, and a variety of games. Along the way, you'll learn how to write about media and fiction for the web and how to integrate a range of sensory modalities (audition, vision, and touch) into your critical work. Since this course is an introduction, I'll assume you’ve never taken a class in media studies.
+How do we not only *read* stories but also *see*, *hear*, *watch*, and *play* them? This course introduces you to the intersections of media and literature and, more specifically, how text, audio, images, and interfaces are designed for contemporary fiction. We'll study short fiction, comics, animations, dramatic podcasts, and video games. Along the way, you'll learn how to write about media and fiction for the web and how to integrate a range of media into your critical work. Since this course is an introduction, I'll assume you've never taken a class in media studies.
 
-Please note: "media" in the title implies "audio, images, text, and interfaces," not news or communication outlets ("the media"). Thanks! 
+Please note: "media" in the title implies "audio, images, text, and interfaces," not news or communication outlets ("the media"). Thanks!
 
 # Aims 
 
