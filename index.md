@@ -64,7 +64,7 @@ For each assignment, you will respond briefly to a prompt (available in Brightsp
 
 Each response will be assessed based on a rubric provided in the prompt itself, and you will submit all four responses via Brightspace. (Please do not submit them via email or in print.)  
 
-This all means there are no research papers, presentations, or discussion forums in this course. There are no exams, either. 
+This means there are no research papers, presentations, or discussion forums in this course. There are no exams, either. 
 
 As for scheduling, you will know 50% of your final mark by Tuesday, October 25th and 75% by Tuesday, November 15th. Optional revisions to one response will be due by Friday, December 2nd, and your final response to a prompt will be due by Tuesday, December 13th (during the exam period).
 
