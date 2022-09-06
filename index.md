@@ -52,7 +52,7 @@ Each of these four outcomes should apply to work across disciplines and occupati
 
 My name is Jentery Sayers (he / him). I skip a syllable and say it in two: “JEN-tree.” I spend 14.32% of the day looking for my glasses, and I enjoy writing about audio, games, and experimental fiction. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I've been at UVic, on lək̓ʷəŋən and <u>W</u>SÁNEĆ territories, since 2011. I teach courses for UVic English, and I direct the Praxis Studio for Comparative Media Studies. You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca). 
 
-(More about Babak coming soon.)
+My name is Babak Ashrafkhani, and I come from Iran. I earned my BA and MA in English Language & Literature in Iran, and my research in those programs focused on Cultural Materialism.  In recent years, I have published Farsi translations of several plays and other texts, and I have had varied performing and production experience, including directing, physical training, and script analysis. The challenging experience of staging my translations in my home country of Iran helped me with critical examination of dramatic works with an emphasis on the differences between the source and the target cultures. The Ph.D. project I am working on at the University of Victoria involves an ecocritical exploration of apocalyptic dystopias in post-war Neo-liberal England through the lens of contemporary British dramatists. You can email me at [babakashrafkhanilim2@uvic.ca](babakashrafkhanilim2@uvic.ca).
 
 # Assignments
 
@@ -313,7 +313,7 @@ This week should consume no more than four hours of your time outside of class.
 
 *Tuesday, November 22nd* 
 
-* Play or watch Extremely Ok's [*Celeste*](http://www.celestegame.com/). Complete the worksheet for it (see Brightspace attachment) and ensure the audio is enabled. You don't need to play it to completion (it takes 8-20 hours). CW: anxiety attacks (including a struggle to breathe); repeated death of player character; references to alcoholism; death of a parent figure; themes related to mental health and transphobia
+* Play or watch Extremely Ok's [*Celeste*](http://www.celestegame.com/). Complete the worksheet for it (see Brightspace attachment) and ensure the audio is enabled. You don't need to play it to completion (it takes 8-20 hours). CW: anxiety attacks (including a struggle to breathe); repeated death of player character; references to alcoholism; death of a parent figure; themes related to mental health
 * Expect a lecture on interface terminology (such as menus, options, navigation, and HUD) and ways of interpreting interfaces (both diegetic and non-diegetic) in fiction. 
 
 *Wednesday, November 23rd* 
