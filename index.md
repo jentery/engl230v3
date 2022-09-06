@@ -195,7 +195,7 @@ This week should consume no more than three hours of your time outside of class.
 *Wednesday, October 5th* 
 
 * Review [Prompt 2](prompt2.html). A response is due in Brightspace by Tuesday, October 18th. 
-* Expect a lecture and large group discussion about *Within the Wires*, with attention to manipulation (including propaganda, subliminal messaging, acousmatic voices, and autogenic training), massage (including soundscapes, incidental music, and relaxation tapes), "theatre of the imagination," and tape verité. 
+* Expect a lecture and large group discussion about *Within the Wires*, with attention to manipulation (including propaganda, subliminal messaging, acousmatic voices, and autogenic training), massage (including soundscapes, incidental music, and relaxation tapes), theatre of the imagination, and tape verité. 
 
 *Friday, October 7th* 
 
@@ -212,7 +212,7 @@ This week should consume no more than five hours of your time outside of class.
 
 *Wednesday, October 12th* 
 
-* Expect a lecture on movement and mechanics in media, including environmental storytelling and evoked, enacted, embedded, and emergent audio. We'll also touch on some games terminology, like verbs, avatars, player characters, NPCs, cameras, gameplay loops, biomes, inventories, leveling, story beats, and DKART (see [Richard Terrell](http://critical-gaming.squarespace.com/storage/Critical-Gaming_glossary_Richard_Terrell.pdf)).
+* Expect a lecture on movement and mechanics in media, including environmental storytelling and evoked, enacted, embedded, and emergent audio. We'll also touch on some games terminology, like verbs, avatars, player characters, NPCs, cameras, gameplay loops, biomes, inventories, levelling, story beats, and DKART (see [Richard Terrell](http://critical-gaming.squarespace.com/storage/Critical-Gaming_glossary_Richard_Terrell.pdf)).
 
 *Friday, October 14th* 
 
@@ -233,8 +233,8 @@ This week should consume no more than five hours of your time outside of class.
 
 *Wednesday, October 19th* 
 
-* Read Adrian Tomine's "Translated, From the Japanese" (available in Brightspace) and complete the worksheet on it (see Brightspace attachment). CW: conflict between parents; cisheteropatriarchy; themes of leaving family and home as well as assimilation
-* Expect a lecture and large group discussion about "Translated, with attention to meta (including flashbacks and themes of translation), minimalism (including use of lines, colour, brevity, and symmetry), looking (including faces and objects), and sensory education. 
+* Read Adrian Tomine's "Translated, From the Japanese" (available in Brightspace) and complete the worksheet on it (see Brightspace attachment). CW: conflict between parents; cisheteropatriarchy; themes of assimilation as well as leaving family and home  
+* Expect a lecture and large group discussion about "Translated," with attention to meta (including flashbacks and themes of translation), minimalism (including use of lines, colour, brevity, and symmetry), looking (including faces and objects), and sensory education. 
 
 *Friday, October 21st* 
 
@@ -246,13 +246,13 @@ This week should consume no more than five hours of your time outside of class.
 
 *Tuesday, October 25th* 
 
-* Read at least the first half of Alison Bechdel's [*Fun Home*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/) and complete the worksheet on it (see Brightspace attachment). CW: child abuse; verbal abuse; conflict between parents; domestic violence; homophobia; cisheteropatriarchy; imposition of normative femininity; suicide; death of a parent; sexual content; car accident 
+* Read at least the first half of Alison Bechdel's [*Fun Home*](https://www.hmhco.com/shop/books/Fun-Home/9780547347004) and complete the worksheet on it (see Brightspace attachment). CW: child abuse; verbal abuse; conflict between parents; domestic violence; homophobia; cisheteropatriarchy; imposition of normative femininity; suicide; death of a parent; sexual content; car accident 
 * Expect a lecture and large group discussion about *Fun Home*, with attention to memory (including traces, photo albums, memoir, and journals), mimesis (including likeness, mirrors, perspectives, and life imitating art / art imitating life), and narration in the gutters. 
 * We will return marks for [Prompt 2](prompt2.html) by this class meeting. 
   
 *Wednesday, October 26th* 
 
-* Finish [*Fun Home*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/).
+* Finish [*Fun Home*](https://www.hmhco.com/shop/books/Fun-Home/9780547347004).
 * Expect more discussion of *Fun Home*, with attention to allusion, learning to look, and the art of distance (including the Telemachy). 
 
 *Friday, October 28th* 
@@ -313,13 +313,13 @@ This week should consume no more than four hours of your time outside of class.
 
 *Tuesday, November 22nd* 
 
-* Play or watch Extremely Ok's [*Celeste*](http://www.celestegame.com/). Complete the worksheet for it (see Brightspace attachment) and ensure the audio is enabled. You don't need to play it to completion (it takes 8-20 hours). CW: anxiety attacks; repeated death of player character; 
+* Play or watch Extremely Ok's [*Celeste*](http://www.celestegame.com/). Complete the worksheet for it (see Brightspace attachment) and ensure the audio is enabled. You don't need to play it to completion (it takes 8-20 hours). CW: anxiety attacks (including a struggle to breathe); repeated death of player character; references to alcoholism; death of a parent figure; themes related to mental health and transphobia
 * Expect a lecture on interface terminology (such as menus, options, navigation, and HUD) and ways of interpreting interfaces (both diegetic and non-diegetic) in fiction. 
 
 *Wednesday, November 23rd* 
 
 * Review [Prompt 4](prompt4.html). A response is due in Brightspace by Tuesday, December 13th. 
-* Expect a lecture and large group discussion of *Celeste*, with attention to mediation (including the relationship between interface, engine, and story), difficulty (including mechanics, character experiences, and "assist mode"), the articulation of visual art with music, and, of course, the mountain. 
+* Expect a lecture and large group discussion of *Celeste*, with attention to mediation (including the relationship between interface, engine, and story), difficulty (including mechanics, character experiences, and "assist mode"), the articulation of visual art with music, and, of course, survival and the mountain. 
 
 *Friday, November 25th* 
 
