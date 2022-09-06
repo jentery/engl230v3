@@ -6,11 +6,11 @@ Taught by Jentery Sayers (he / him)
 With Babak Ashrafkhani, teaching assistant  
 View this document in [PDF](guide.pdf).
 
-The point of this course is for you to gain media literacy skills pertinent to the practices of storytelling. You will have the opportunity to integrate audio, images, quotations, and even video into your writing about short fiction, comics, animations, dramatic podcasts, and video games.
+The point of this course is for you to gain media literacy skills pertinent to fiction and storytelling. You will have the opportunity to integrate audio, images, quotations, and even video into your writing about comics, animations, short fiction, dramatic podcasts, and games.
 
 You need to purchase only one book for this course: Alison Bechdel's [*Fun Home*](https://www.uvicbookstore.ca/text/book/9780618871711?course_id=122032). It's at the UVic Bookstore. Everything else is available online or in Brightspace. 
 
-We're asking you to complete only **four assignments** this term, each 25% of your final mark. You can **revise one** of your first three assignments to improve your grade, and you'll submit all work via Brightspace. This means there are no research papers, presentations, or discussion forums in this course. There are no exams, either. 
+We're asking you to complete only **four writing assignments** this term, each 25% of your final mark. You can **revise one** of your first three assignments to improve your grade, and you'll submit all work via Brightspace. There are no research papers, presentations, or discussion forums in this course. There are no exams, either.
 
 * **Week 1 (Sept 7, 9)**: Review the syllabus. Purchase *Fun Home*. 
 * **Week 2 (Sept 13, 14, 16)**: Watch *THE M00D 0F THE M0MENT*. Review Prompt 1. Play *Secrets Agent*. No class on the 14th. 
@@ -24,13 +24,13 @@ We're asking you to complete only **four assignments** this term, each 25% of yo
 * **Week 10 (Nov 8, 9, 11)**: No class this week. 
 * **Week 11 (Nov 15, 16, 18)**: Check out *50 Years of Text Games*. Read / play *With Those We Love Alive*. Review the prompt for revisions. 
 * **Week 12 (Nov 22, 23, 25)**: Play or watch *Celeste*. Review Prompt 4. 
-* **Week 13 (Nov 29, 30; Dec 2)**: Share a game or fiction with the class. Complete course experience surveys. Optional: submit a revised response to Prompt 1, 2, or 3. 
+* **Week 13 (Nov 29, 30; Dec 2)**: Share a game or fiction with the class. Complete course experience surveys. Optional: submit a revised response to Prompt 1, 2, or 3 by the 2nd.
 * **Exam Period (Dec 13)**: Respond to Prompt 4 by the 13th.  
 
 Read the complete prompts in Brightspace and be sure to review the detailed [schedule](https://jentery.github.io/engl230v3/index.html#schedule) and the [policies](https://jentery.github.io/engl230v3/index.html#policies) at some point, too.  
 
-We suggest dedicating to this course 3 to 5 hours of study each week, plus 3 hours for weekly meetings (TWF). With your permission, we may record audio of our sessions and circulate it via Brightspace. You'll have the option to limit personal information shared in the recording. We will also provide you with detailed lecture notes in the form of an online Word doc available through Microsoft Office 365 at UVic. 
+We suggest dedicating to this course 3 to 5 hours of study each week, plus 3 hours for weekly meetings (TWF). With your permission, we may record audio of our sessions and circulate it via Brightspace. You'll have the option to limit personal information shared in the recording. We will also provide you with detailed lecture notes in the form of an online Word doc available in Microsoft Office 365 care of UVic. 
 
-The best way to communicate with me (Jentery) is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) or during office hours, which are Thursday, 12:30 - 2:30pm. I respond to email between 9am and 5pm, Monday through Friday, excluding holidays. 
+The best way to communicate with me (Jentery) is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) or during office hours, which are Wednesday, 12-1pm, and Thursday, 12:30 - 1:30pm. I respond to email between 9am and 5pm, Monday through Friday, excluding holidays. 
 
 *This tl;dr is not intended to replace the [actual syllabus](https://jentery.github.io/engl230v3/), which you should also read.* 

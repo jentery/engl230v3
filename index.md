@@ -4,7 +4,7 @@ lək̓ʷəŋən and <u>W</u>SÁNEĆ Territories
 TWF, 1:30-2:20pm  
 Taught by Jentery Sayers (he / him)   
 With Babak Ashrafkhani, teaching assistant     
-Office hours: Thursday, 12:30 - 2:30pm   
+Office hours: W, 12-1pm; Th, 12:30-1:30pm  
 [jentery@uvic.ca](mailto:jentery@uvic.ca)
 
 View this document in [PDF](engl230Syllabus2022Sayers.pdf). 
@@ -33,20 +33,20 @@ I made a one-page, [tl;dr version of this syllabus](guide.html) for you. I'll pr
 
 # Course Description 
 
-How do we not only *read* stories but also *see*, *hear*, *watch*, and *play* them? This course introduces you to the intersections of media and literature and, more specifically, how text, audio, images, and interfaces are designed for contemporary fiction. We'll study short fiction, comics, animations, dramatic podcasts, and video games. Along the way, you'll learn how to write about media and fiction for the web and how to integrate a range of media into your critical work. Since this course is an introduction, I'll assume you've never taken a class in media studies.
+How do we not only *read* stories but also *see*, *hear*, *watch*, and *play* them? This course introduces you to media studies and how audio, images, text, and interfaces are designed for contemporary fiction. We'll study comics, animations, short fiction, dramatic podcasts, and games, and you'll learn how to write about media and fiction for a critical audience by integrating a range of media into your work. Since this course is an introduction, I'll assume you've never taken a class in media studies.
 
 Please note: "media" in the title implies "audio, images, text, and interfaces," not news or communication outlets ("the media"). Thanks!
 
 # Aims 
 
-We designed this course for you to: 
+We designed this course for you to:
 
-* Develop a vocabulary to approach media in the context of fiction and storytelling.  
-* Interpret what audio, images, text, and interfaces *do* in fiction. We'll practice various techniques for watching, reading, playing, and listening to the stories people make with media. 
-* Communicate critically with audio, images, text, and interfaces. You'll have opportunities to practice composing across these media, with an informed audience in mind. 
-* Use media as evidence in criticism. You will have the opportunity to integrate audio, images, quotations, and even video into your writing about fiction.
+* Develop a vocabulary to approach media in the context of fiction and storytelling.
+* Interpret what audio, images, text, and interfaces *do* in fiction. We'll practice various techniques for watching, reading, playing, and listening to the stories people make with media.
+* Communicate critically with audio, images, text, and interfaces. You'll have opportunities to practice composing across these media, with an informed audience in mind.
+* Use media as evidence in criticism. You'll integrate audio, images, quotations, and even video into your writing about fiction.
 
-Each of these four outcomes should apply to work across disciplines and occupations, regardless of your major at UVic. They are useful whenever you're analyzing media or writing for the web.
+Each of these four outcomes should apply to work across disciplines and occupations, regardless of your occupational interests or major at UVic. They are useful whenever you're interpreting media or communicating online, for example. 
 
 # About Us 
 
@@ -58,9 +58,9 @@ My name is Jentery Sayers (he / him). I skip a syllable and say it in two: “JE
 
 We're back on campus during COVID-19. These are complex and overwhelming times, so we'll try to keep this course as simple and clear as possible. 
 
-We're asking you to complete only **four assignments** this term, each 25% of your final mark. You'll have an opportunity to **revise one** of your first three assignments to improve your mark.
+We're asking you to complete only **four writing assignments** this term, each 25% of your final mark. You'll have an opportunity to **revise one** of your first three assignments to improve your mark.
 
-For each assignment, you will respond briefly to a prompt (available in Brightspace) through a combination of audio, images, video, and/or text. The prompt will ask you to examine assigned materials, with attention to detail, from a critical perspective. It will also nudge you to enact a media study of fiction: to demonstrate concepts and to perform techniques discussed during class. 
+For each assignment, you will respond briefly to a prompt (available in Brightspace) through a combination of audio, images, video, and/or text. The prompt will ask you to examine assigned materials, with attention to detail, from a critical perspective. It will also nudge you to enact a media study of fiction: to demonstrate concepts from class and to perform techniques discussed during workshops and lectures.
 
 Each response will be assessed based on a rubric provided in the prompt itself, and you will submit all four responses via Brightspace. (Please do not submit them via email or in print.)  
 
@@ -70,7 +70,7 @@ As for scheduling, you will know 50% of your final mark by Tuesday, October 25th
 
 # Structure
 
-We'll meet three days a week (TWF) from 1:30 to 2:20pm. A typical week will include a lecture, a large group discussion about a particular work, and a workshop on critical media literacy. We will use Word in Microsoft Office 365 to provide you with detailed lecture notes alongside audio recordings (in Brightspace) of class meetings. These notes and recordings are to be used solely for the sake of the course (and for making it more accessible). They should *not* be circulated outside of it. Feedback on this approach is welcome from you along the way. 
+We'll meet three days a week (TWF) from 1:30 to 2:20pm. A typical week will include a lecture, a large group discussion about a particular work, and a workshop on critical media literacy. We will use Word in Microsoft Office 365 to provide you with detailed lecture notes (available online) alongside audio recordings (in Brightspace) of class meetings. These notes and recordings are to be used solely for the sake of the course (and for making it more accessible to you). They should *not* be circulated outside of it. Feedback on this approach is welcome from you along the way. 
 
 For details about what we will discuss and when, see the schedule below.
 
@@ -101,7 +101,7 @@ Here's a list of works ("assigned texts") we'll study this term. You need to pur
 
 If this ends up being too much for the term, then we'll cut material or some of it will become optional. 
 
-We'll also provide you with notes and audio that will document material from lectures and discussions. The notes will be circulated as a Word doc in Microsoft Office 365, and we will invite you to comment, converse, and ask questions in the margins. The audio will be available in Brightspace. Again, we ask that you do not circulate the recordings or notes beyond the course. Thanks a bunch. 
+We'll also provide you with notes and audio that will document material from lectures and discussions. The notes will be circulated online as a Word doc in Microsoft Office 365, and we will invite you to comment, converse, and ask questions in the margins. The audio will be available in Brightspace. Again, we ask that you do not circulate the recordings or notes beyond the course. Thanks a bunch. 
 
 You do not need to purchase any software for this course; however, you'll need access to the internet and a computer. We will use Brightspace and Word for Office 365, both provided by UVic. If you've never used Microsoft Office 365 at UVic, then you may need to activate it first by visiting [onlineservices.uvic.ca](https://onlineservices.uvic.ca/).  
 
@@ -377,15 +377,15 @@ Throughout the term, we'll request feedback (verbal and in writing) from you on 
 
 ### Late Submissions and Extensions
 
-We have a "no questions asked" late policy for any assignments (excluding your response to Prompt 4, due in December) submitted within one week (five working days) of its due date. We simply ask that you complete an online form, which we'll circulate during class in September, to apply that policy. Your response to the online form will help us to track work that's arriving a few days late. It'll also save you an email. Of course, we recommend submitting everything on time, but we know that life happens, and for late work we will never expect any sort of documentation from you. 
+We have a "no questions asked" late policy for any assignments (excluding your response to Prompt 4, due in December) submitted within one week (five working days) of the due date. We simply ask that you complete an online form, which we'll circulate during class in September, to apply that policy. Your response to the online form will help us to track work that's arriving a few days late. It'll also save you an email. Of course, we recommend submitting everything on time, but we know that life happens, and for late work we will never expect any sort of documentation from you. 
 
 We will deduct two points per working day for every assignment submitted more than one week (five working days) late. Please email me (Jentery) if you need more than a week's extension. Again, we will comment on all assigned work we receive from you during the term, regardless of when it's submitted.   
 
 ### Attendance, Participation, and Recordings
 
-We will assume you are attending each one of meetings this term. If you are unable to attend a particular meeting, then please email one of us in advance. You do not need to provide us with documentation for an absence. There are no participation marks or the like in this course. 
+We will assume you are attending each class meeting this term. If you are unable to attend a particular meeting, then please email one of us in advance. You do not need to provide us with documentation for an absence. There are no participation marks or the like in this course. 
 
-With your permission, we may record audio of our sessions and circulate it via Brightspace. You will have the option to limit personal information shared in the recording. If you have other questions or concerns regarding class recording and privacy, then please contact [privacyinfo@uvic.ca](mailto:privacyinfo@uvic.ca).  
+With your permission, we may record audio of our class sessions and circulate it via Brightspace. You will have the option to limit personal information shared in the recording. If you have other questions or concerns regarding class recording and privacy, then please contact [privacyinfo@uvic.ca](mailto:privacyinfo@uvic.ca).  
 
 ### Communications 
 
