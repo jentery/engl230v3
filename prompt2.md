@@ -15,7 +15,7 @@ This prompt asks you to focus on audio's role in fiction by producing your own a
 
 ## Aim
 
-Your response to this prompt should demonstrate to your audience why the production and performance of voice tracks are important to interpretations of their content. This is an assignment about **how sound is communicated**: the timbre, the vibe, the ambience, the pacing, the speaker . . . with attention to voice in particular. The "how" of audio production shapes the "what" of its content.
+Your response to this prompt should demonstrate why the production and performance of voice tracks are important aspects of a story. This is an assignment about **how sound is communicated**: the timbre, the vibe, the ambience, the pacing, the speaker . . . with attention to voice in particular. The "how" of audio production shapes the "what" of its content.
 
 ## Format 
 
