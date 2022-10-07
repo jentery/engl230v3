@@ -41,7 +41,7 @@ I will assess your response to Prompt 2 based on the following criteria:
 
 * *Engagement with the prompt and class material* (25%): how well and to what degree the response follows the prompts and engages class material 
 * *Selection or creation of content* (25%): how effectively the response selects content from the primary source (Option 1 or 2 above) or creates new content for that source (Option 3 above)
-* *Quality of audio sample* (25%): how effectively the audio demonstrates the ways production and performance shapes its content (25%)
+* *Quality of audio sample* (25%): how effectively the audio demonstrates the ways that production and performance shape content (25%)
 * *Potential of the audio* (25%): the degree to which the audio could be expanded into a larger project to further develop its techniques and approach in general 
 
 You will receive one mark for each of these four criteria, which will be tallied (.25 x 4) to result in your grade for Prompt 2. I will send feedback to you via Brightspace. I will use [UVic's grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) for assessment, according to this rubric: "exceeds and raises expectations" (A+), "exceeds expectations" (A, A-), "exceeds some expectations" (B+), "meets expectations" (B, B-), "meets some expectations" (C+, C), "meets few expectations" (D), and "no submission." You will have an opportunity to revise your response to Prompt 1, 2, or 3 by Friday, December 2nd. This revision can only improve your mark. 
