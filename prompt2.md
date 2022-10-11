@@ -37,9 +37,9 @@ Your audience for Option 1 (Audiobook Sample) is the hypothetical audiobook publ
 
 ## Looking for Sounds? Or Ways to Record? 
 
-Your audio sample needs to include only vocal performances according to Option 1, 2, or 3 above. You can record your sample on your phone, labptop, desktop, or the like. You can also record directly int0 Brightspace. Just visit the Prompt 2 assignment (in Week 7) and scroll down to the "Record" / "Record Audio" option. Your Brightspace audio file can be up to five minutes long, or you can upload your own file. 
+Your audio sample needs to include only vocal performances according to Option 1, 2, or 3 above. You can record your sample on your phone, labptop, desktop, or the like. You can also record directly in Brightspace. Just visit the Prompt 2 assignment (see Week 7 in Brightspace) and scroll down to the "Record" / "Record Audio" option. Your Brightspace audio file can be up to five minutes long, or you can upload your own file. 
 
-You are welcome to add filters, sound effects, and soundscapes, too. Such additions would, of course, exceed the exceptations of the prompts. They are by no means required. 
+You are welcome to add filters, sound effects, and soundscapes, too. Such additions would, of course, exceed the exceptations of the prompt. They are by no means required. 
 
 Sound effects and soundscape libraries intended for non-commercial, educational, and research uses abound on the internet, but the [BBC's collection](https://sound-effects.bbcrewind.co.uk/) is probably my favourite. You are also welcome to edit and integrate MP3s I've distributed as part of the course material, but your audio sample must be a new recording, not only an edit of an existing file. 
 
