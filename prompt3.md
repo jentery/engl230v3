@@ -9,9 +9,9 @@ Office hours: W, 12-1pm; Th, 12:30-1:30pm
 
 # Prompt 3 
 
-During Weeks 7 and 8, we discussed various types of images: graphical, optical, and perceptual images, for instance. We saw how these images behave in comics by Tomine and Bechdel. During Week 9, we added text to the picture, with attention to *Undertale*. We couched all of these discussions in theme of "sensory education": how we learn—and how we're taught—to see and read the world. 
+During Weeks 7 and 8, we discussed various types of images: graphical, optical, and perceptual images, for instance. We saw how these images behave in comics by Tomine and Bechdel. During Week 9, we added text to the picture, with attention to *Undertale*. We couched all of these discussions in the theme of "sensory education": how we learn—and also how we're taught--to see and read the world. 
 
-This prompt asks you to share your knowledge of images and text by either annotating *Fun Home*, *Undertale*, or "Translated, from the Japanese" or imitating their style. 
+This prompt asks you to share your knowledge of images and text by either annotating a primary source or imitating its style.
 
 ## Aim
 
@@ -41,7 +41,7 @@ I will assess your response to Prompt 3 based on the following criteria:
 
 * *Engagement with the prompt and class material* (25%): how well and to what degree the response follows the prompts and engages class material 
 * *Selection of content or style* (25%): how effectively the response selects a style (Option 1) or some content (Option 2) from the primary source 
-* *Quality of imitation or annotation* (25%): how effectively the imitation or annotation demonstrates how images and text not only tell stories but also produce a kind of language for audiences to interpret
+* *Quality of imitation or annotation* (25%): how effectively the imitation or annotation demonstrates the ways images and text not only tell stories but also produce a kind of language for audiences to interpret
 * *Potential of the imitation or annotation* (25%): the degree to which the imitation or annotation could be expanded into a larger project to further develop its themes and techniques
 
 You will receive one mark for each of these four criteria, which will be tallied (.25 x 4) to result in your grade for Prompt 3. I will send feedback to you via Brightspace. I will use [UVic's grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) for assessment, according to this rubric: "exceeds and raises expectations" (A+), "exceeds expectations" (A, A-), "exceeds some expectations" (B+), "meets expectations" (B, B-), "meets some expectations" (C+, C), "meets few expectations" (D), and "no submission." 
