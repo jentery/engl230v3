@@ -9,7 +9,7 @@ Office hours: W, 12-1pm; Th, 12:30-1:30pm
 
 # Prompt 3 
 
-During Weeks 7 and 8, we discussed various types of images: graphical, optical, and perceptual images, for instance. We saw how these images behave in comics by Tomine and Bechdel. During Week 9, we added text to the picture, with attention to *Undertale*. We couched all of these discussions in theme of "sensory education": how we learn to see and read the world. 
+During Weeks 7 and 8, we discussed various types of images: graphical, optical, and perceptual images, for instance. We saw how these images behave in comics by Tomine and Bechdel. During Week 9, we added text to the picture, with attention to *Undertale*. We couched all of these discussions in theme of "sensory education": how we learn&mdashand how we're taught&mdashto see and read the world. 
 
 This prompt asks you to share your knowledge of images and text by either annotating *Fun Home*, *Undertale*, or "Translated, from the Japanese" or imitating their style. 
 
