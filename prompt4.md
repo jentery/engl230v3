@@ -15,7 +15,7 @@ This prompt asks you to share your knowledge of action and interfaces by demakin
 
 ## Aim
 
-Your response to this prompt should demonstrate how games compel their audiences to act, if only by pressing a button or selecting an option in a menu. We've talked a lot about choice and satisfaction in this context. *Choice*: What actions or “verbs" do games afford players? Does less choice result in boredom? Do too many choices result in confusion? Where do we find variety in a given game, and where do we find repetition? *Satisfaction*: To what degree are desirable outcomes attainable? How uncertain are the outcomes, and how predictable are they? Across story and mechanics, what's the right sort of difficulty for you as a player? 
+Your response to this prompt should demonstrate how games compel their audiences to act, if only by pressing a button or selecting an option in a menu. We've talked a lot about choice and satisfaction in this context. *Choice*: What actions or “verbs" do games afford players? Does less choice result in boredom? Do too many choices result in confusion? Where do we find variety in a given game, and where do we find repetition? *Satisfaction*: To what degree are desirable outcomes attainable? How uncertain are the outcomes, and how predictable are they? Across story and mechanics, what's the right type of difficulty for you as a player or reader? 
 
 ## Format 
 
